@@ -22,3 +22,5 @@ def fizz_buzz(number):
 
     elif number % 5 == 0:
         return 'Buzz'
+
+print "Hello world!"
